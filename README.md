@@ -1,8 +1,6 @@
-# show app
-![image](https://github.com/Hijazi01/TodoList/assets/103125286/bd6380f7-1c3b-4c53-9847-b0e4737e53ca)
+# Todo List 
+![image](https://github.com/Hijazi01/TodoList/assets/103125286/807bcf88-9cd7-4eb9-b5fd-10cae74b1986)
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
