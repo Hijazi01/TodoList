@@ -103,7 +103,19 @@ function App() {
               >
                 <ListItemAvatar>
                   <Avatar>
-                    <NoteIcon />
+                    {
+                      alignment === "1" ? (
+                        <FavoriteIcon />
+                      ) : alignment === "2" ? (
+                        <AddTaskIcon />
+                      ) : alignment === "3" ? (
+                        <DoneAllIcon />
+                      ) : alignment === "4" ? (
+                        <AssignmentTurnedInIcon />
+                      ) : alignment === "5" ? (
+                        <NoteIcon />
+                      ) : null 
+                    }
                   </Avatar>
                 </ListItemAvatar>
                 <ListItemText
